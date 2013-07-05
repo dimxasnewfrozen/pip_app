@@ -1,0 +1,43 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/* TODO: Split up CSS into unique files for minify */
+
+body {
+	background-color: #F5F5F5;
+}
+
+/* MENU */
+.main_menu {
+
+	height:40px;
+	width:100%;
+	background-color: #1BBFE0;
+	border-bottom:1px solid #3FA3EB;
+}
+
+/* SUB MENU */
+.sub_menu {
+	height:35px;
+	width:100%;
+	background-color: #F0F0F0;
+	border-bottom:1px solid #D6D6D6;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
